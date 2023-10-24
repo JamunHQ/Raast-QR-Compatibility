@@ -1,0 +1,60 @@
+{
+  "scbl": {
+    "name": "Standard Chartered Bank Limited",
+    "url": "https://www.sc.com/pk/",
+    "supportedQrCodeGenerationFeatures": [
+      "static"
+    ],
+    "supportedQrCodePaymentFeatures": [
+      "static",
+      "intra-bank"
+    ]
+  },
+  "hbl": {
+    "name": "Habib Bank Limited",
+    "url": "https://www.hbl.com/",
+    "supportedQrCodeGenerationFeatures": [
+      "static",
+      "dynamic",
+      "expiration",
+      "amount"
+    ],
+    "supportedQrCodePaymentFeatures": [
+    ]
+  },
+  "ubl": {
+    "name": "United Bank Limited",
+    "url": "https://www.ubldigital.com/",
+    "supportedQrCodeGenerationFeatures": [
+      "static",
+      "dynamic",
+      "expiration",
+      "amount",
+      "description"
+    ],
+    "supportedQrCodePaymentFeatures": [
+      "static",
+      "dynamic",
+      "amount",
+      "intra-bank",
+      "inter-bank"
+    ]
+  },
+  "abl": {
+    "name": "Allied Bank Limited",
+    "url": "https://www.abl.com/",
+    "supportedQrCodeGenerationFeatures": [
+      "static",
+      "dynamic",
+      "expiration",
+      "amount"
+    ],
+    "supportedQrCodePaymentFeatures": [
+      "static",
+      "dynamic",
+      "amount",
+      "intra-bank",
+      "inter-bank"
+    ]
+  }
+}
