@@ -7,9 +7,7 @@
       "static"
     ],
     "supportedQrCodePaymentFeatures": [
-      "static",
-      "inter-bank",
-      "intra-bank"
+      "static"
     ]
   },
   "hbl": {
@@ -39,9 +37,7 @@
     "supportedQrCodePaymentFeatures": [
       "static",
       "dynamic",
-      "amount",
-      "intra-bank",
-      "inter-bank"
+      "amount"
     ]
   },
   "abl": {
@@ -57,9 +53,7 @@
     "supportedQrCodePaymentFeatures": [
       "static",
       "dynamic",
-      "amount",
-      "intra-bank",
-      "inter-bank"
+      "amount"
     ]
   }
 }
