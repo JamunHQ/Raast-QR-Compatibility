@@ -2,17 +2,20 @@
   "scbl": {
     "name": "Standard Chartered Bank Limited",
     "url": "https://www.sc.com/pk/",
+    "emailAddress": "complaints.pakistan@sc.com",
     "supportedQrCodeGenerationFeatures": [
       "static"
     ],
     "supportedQrCodePaymentFeatures": [
       "static",
+      "inter-bank",
       "intra-bank"
     ]
   },
   "hbl": {
     "name": "Habib Bank Limited",
     "url": "https://www.hbl.com/",
+    "emailAddress": "ebanc.roshanaccount@hbl.com",
     "supportedQrCodeGenerationFeatures": [
       "static",
       "dynamic",
@@ -25,6 +28,7 @@
   "ubl": {
     "name": "United Bank Limited",
     "url": "https://www.ubldigital.com/",
+    "emailAddress": "customercare@ublfunds.com",
     "supportedQrCodeGenerationFeatures": [
       "static",
       "dynamic",
@@ -43,6 +47,7 @@
   "abl": {
     "name": "Allied Bank Limited",
     "url": "https://www.abl.com/",
+    "emailAddress": "complaint@abl.com",
     "supportedQrCodeGenerationFeatures": [
       "static",
       "dynamic",
